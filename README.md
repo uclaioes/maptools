@@ -10,6 +10,8 @@ Resources to build and design maps
 - [QGIS Tutorials](https://www.qgistutorials.com/en/)
 
 ### API Key Maps
+- [Thunderforest](http://www.thunderforest.com/maps/)
+- [Thunderforest API Keys](http://www.thunderforest.com/docs/)
 
 ### Query filters
 
